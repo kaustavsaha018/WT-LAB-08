@@ -1,6 +1,6 @@
 # WT-LAB-08
 <h1>Java Programs on Inheritance and Polymorphism</h1>
-<img src="javalogo.png" width="100" height="50">
+<img src="javalogo.png" width="100" height="100">
 <br>
 <h2>Questions:</h2>
 
